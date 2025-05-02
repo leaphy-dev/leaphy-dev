@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi👋
-这里是Leaphy
+- 这里是Leaphy
 <img src="https://github-readme-stats.vercel.app/api?username=leaphy-dev&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true" height="165"/>
 <img alt="most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaphy-dev&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart,uooc-plz-dont-pause&card_width=323"/>
 
