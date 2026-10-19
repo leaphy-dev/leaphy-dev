@@ -1,7 +1,7 @@
 ### Hi👋
 - 这里是Leaphy
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leaphye&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true" height="165"/>
-<img alt="most used lang" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leaphye&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart,uooc-plz-dont-pause&card_width=323"/>
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 - 正在学习
   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)
